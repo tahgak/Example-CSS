@@ -1,0 +1,25 @@
+h1 {
+    text-align: center;
+    text-transform: capitalize;
+    text-decoration: underline wavy;
+}
+.chapitres {
+    font-weight: bold;
+}
+p {
+    text-indent: 40px;
+    text-align: justify;
+}
+.text {
+    color: red
+}
+.chapitres {
+    text-transform: uppercase;
+    text-decoration: underline;
+}
+.up {
+    color: red
+}
+footer p {
+    text-align: center;
+}

@@ -1,0 +1,27 @@
+h1{
+    text-align: center;
+    text-decoration: underline dashed;
+    color:#4169e1;
+    background:fixed  blanchedalmond ;
+}
+.up{
+    color: rgb(100, 20, 10);
+    text-decoration: underline dotted ;
+    background:scroll;
+}
+.text{
+    text-indent: 40px;
+    text-transform:justify;
+    background:fixed;
+}
+footer p{
+    text-align: center;
+    background:local blanchedalmond;
+}
+.title{
+    color:#4169e1;
+    text-decoration: underline ;
+}
+.start{
+    color:#4169e1;
+}
